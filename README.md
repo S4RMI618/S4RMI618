@@ -2,11 +2,11 @@
 
 I'm a Front-end developer Trainee || HTML, CSS, Javascript, REACT JS
 
-### [My Portfolio](https://S4RMI618.github.io)
+### About me
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://S4RMI618.github.io](https://S4RMI618.github.io)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://S4RMI618.github.io)
 
 - 📫 How to reach me **huessabe@gmail.com**
 
