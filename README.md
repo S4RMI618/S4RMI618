@@ -2,7 +2,8 @@
 
 I'm a Front-end developer Trainee || HTML, CSS, Javascript, REACT JS
 
-### My Portfolio(S4RMI618.github.io)
+### My Portfolio
+S4RMI618.github.io
 
 ### Find me at:
 
