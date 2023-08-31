@@ -18,8 +18,6 @@ I'm a Front-end developer Trainee || HTML, CSS, Javascript, REACT JS
 <a href="https://linkedin.com/in/hugo sarmiento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo sarmiento" height="30" width="40" /></a>
 <a href="https://fb.com/hugo sarmiento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugo sarmiento" height="30" width="40" /></a>
 <a href="https://instagram.com/sarmiento_618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarmiento_618" height="30" width="40" /></a>
-<a href="https://discord.gg/sarmiento_618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sarmiento_618" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
