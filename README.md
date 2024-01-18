@@ -16,7 +16,6 @@ I'm a Front-end developer Trainee || HTML, CSS, Javascript, REACT JS
 <p align="left">
 <a href="https://twitter.com/hugosar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugosar18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hugo sarmiento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo sarmiento" height="30" width="40" /></a>
-<a href="https://fb.com/hugo sarmiento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugo sarmiento" height="30" width="40" /></a>
 <a href="https://instagram.com/sarmiento_618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarmiento_618" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -66,6 +65,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://fb.com/hugo sarmiento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugo sarmiento" height="30" width="40" /></a>
 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
