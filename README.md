@@ -1,6 +1,6 @@
 ﻿### Hi there, my name is Hugo Sarmiento 👋
 
-I'm a Front-end developer Trainee || HTML, CSS, Javascript, REACT JS
+I'm a Front-end developer || HTML, CSS, Javascript, REACT JS
 
 ### About me
 
