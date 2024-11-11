@@ -1,10 +1,10 @@
 ﻿### Hi there, my name is Hugo Sarmiento 👋
 
-I'm a Front-end developer || HTML, CSS, Javascript, REACT JS
+I'm a Web Developer || HTML, CSS, Javascript, React JS, Laravel
 
 ### About me
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **LARAVEL FRAMEWORK**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://S4RMI618.github.io)
 
@@ -50,6 +50,9 @@ I'm a Front-end developer || HTML, CSS, Javascript, REACT JS
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
+    </a> 
 </p>
 
 <!--
@@ -85,6 +88,9 @@ Here are some ideas to get you started:
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
+
+    
+    
 
 -->
 
